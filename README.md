@@ -17,11 +17,3 @@
 console.log("bloco de codigo")
 const a = 10
 ```
-
-![teste de imagem](https://i.ytimg.com/vi/3w-hECDDHPU/maxresdefault.jpg)
-
-|   |   |   | _sdasdasd_    |   |
-|---|---|---|---------------|---|
-|   |   |   |               |   |
-|   |   |   | **dsdsdsdsd** |   |
-|   |   |   |               |   |
